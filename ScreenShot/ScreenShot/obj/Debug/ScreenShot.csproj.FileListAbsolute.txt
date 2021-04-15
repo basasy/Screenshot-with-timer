@@ -1,0 +1,10 @@
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe.config
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\bin\Debug\ScreenShot.pdb
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.csprojAssemblyReference.cache
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Form1.resources
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Properties.Resources.resources
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.csproj.GenerateResource.cache
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.exe
+C:\Users\Semih\source\repos\ScreenShot\ScreenShot\obj\Debug\ScreenShot.pdb
